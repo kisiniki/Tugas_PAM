@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/2e7a0da1111f5faa4cda6ea80fd2bd90/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/3888af59fbe4fba461a590b8deef8f7d/recyclerview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/610d08a75630a68ae5da255b1ce608fa/cardview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/e7639780b22072cd2321f8ae8af553f5/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/e789a0a2d89e293d0f4569a19b4e9481/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/b28a254e55999e1d2aa62d09f8000698/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/7d76176e53fd418311040590316a8b91/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/37d72da4a9ea736597842a4062e093c7/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/dd5911b83a8e992314af65995caab3cc/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/51a8ba79d7592159edea065639e710e5/livedata-core-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/d9af15a00c1532a32083353129658c8a/viewmodel-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/b06eb4ce28a242d36ec78203522f4bd1/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/a0525a1a8e83ff20339acc2ad5b327ec/runtime-1.1.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+	package
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+		INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:1-35:12
+		INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:20:5-33:19
+	android:supportsRtl
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.materialme.MainActivity
+ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/2e7a0da1111f5faa4cda6ea80fd2bd90/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/2e7a0da1111f5faa4cda6ea80fd2bd90/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/3888af59fbe4fba461a590b8deef8f7d/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/3888af59fbe4fba461a590b8deef8f7d/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/610d08a75630a68ae5da255b1ce608fa/cardview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/610d08a75630a68ae5da255b1ce608fa/cardview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/e7639780b22072cd2321f8ae8af553f5/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/e7639780b22072cd2321f8ae8af553f5/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/e789a0a2d89e293d0f4569a19b4e9481/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/e789a0a2d89e293d0f4569a19b4e9481/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/b28a254e55999e1d2aa62d09f8000698/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/b28a254e55999e1d2aa62d09f8000698/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/7d76176e53fd418311040590316a8b91/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/7d76176e53fd418311040590316a8b91/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/37d72da4a9ea736597842a4062e093c7/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/37d72da4a9ea736597842a4062e093c7/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/dd5911b83a8e992314af65995caab3cc/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/dd5911b83a8e992314af65995caab3cc/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/51a8ba79d7592159edea065639e710e5/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/51a8ba79d7592159edea065639e710e5/livedata-core-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/d9af15a00c1532a32083353129658c8a/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/d9af15a00c1532a32083353129658c8a/viewmodel-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/b06eb4ce28a242d36ec78203522f4bd1/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/b06eb4ce28a242d36ec78203522f4bd1/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/a0525a1a8e83ff20339acc2ad5b327ec/runtime-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kisiniki/.gradle/caches/transforms-2/files-2.1/a0525a1a8e83ff20339acc2ad5b327ec/runtime-1.1.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kisiniki/Downloads/MaterialMe-Starter/app/src/main/AndroidManifest.xml
